@@ -1,3 +1,1 @@
-export const Footer = () => (
-  <div className="footer">© 2023 - cankskrk - Events App</div>
-);
+export const Footer = () => <footer>© 2023 - cankskrk - Events App</footer>;
