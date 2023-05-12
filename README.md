@@ -2,7 +2,7 @@
 
 [Next.js React Framework Course - freeCodeCamp Video](https://youtu.be/KjY94sAKLlw)
 
-You can reach the app [here](next-js-events-l12k0t2cu-cankskrk.vercel.app)
+You can reach the app [here](https://next-js-events-app-wheat.vercel.app/)
 
 <br>
 
